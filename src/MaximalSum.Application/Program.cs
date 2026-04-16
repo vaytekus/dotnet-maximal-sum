@@ -1,4 +1,4 @@
-﻿using MaximalSum.Application.Models;
+﻿using MaximalSum.Application.Core;
 
 namespace MaximalSum.Application;
 

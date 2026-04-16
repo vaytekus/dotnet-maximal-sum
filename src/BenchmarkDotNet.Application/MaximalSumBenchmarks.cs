@@ -1,5 +1,5 @@
 using BenchmarkDotNet.Attributes;
-using MaximalSum.Application.Models;
+using MaximalSum.Application.Core;
 
 namespace BenchmarkDotNet.Application;
 

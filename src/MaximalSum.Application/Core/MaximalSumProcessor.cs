@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace MaximalSum.Application.Models
+namespace MaximalSum.Application.Core
 {
     public class MaximalSumProcessor<T>(string pathToFile) where T : struct, INumber<T>
     {
